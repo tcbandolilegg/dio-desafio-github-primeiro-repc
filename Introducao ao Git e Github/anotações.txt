@@ -1,0 +1,11 @@
+Link para down load do Git 
+https://git-scm.com/download/win
+
+link para curso do Git Bash
+https://www.atlassian.com/br/git/tutorials/git-bash
+
+Como utilizar o Markdown par ao readme.md
+https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
+
+
+
